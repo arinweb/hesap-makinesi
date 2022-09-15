@@ -1,5 +1,5 @@
 # hesapmakinesi
-Çalışması için <head> etiketi arasına bu kodları ekleyin.
+Çalışması için \<head\> etiketi arasına bu kodları ekleyin.
 ```
 <link rel="stylesheet" href="style.css" type="text/css" media="all" />
 <script type="text/javascript" src="main.js"></script>
