@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Oxanium");
+  .sayfa {
+    font-family: Oxanium;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #34495e;
+    color: white;
+  }
+  table {
+    background: #212121;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid deepskyblue;
+    overflow: auto;
+  }
+  table tr * {
+    user-select: none;
+    border: 2px solid #212121;
+    border-radius: 5px;
+    font-size: 1rem;
+    text-align: center;
+  }
+  table tr td:active {
+    background: #34495e;
+  }
+  table tr .btn {
+    background: deepskyblue;
+    color: white;
+    padding: 15px;
+    margin: 5px;
+  }
+  table #islem {
+    background: purple;
+    padding: 10px;
+    color: white;
+    overflow: auto;
+  }
+  table #gosterge {
+    background: yellowgreen;
+    padding: 10px;
+    color: white;
+    overflow: auto;
+  }
+  table .btnesit {
+    text-align: center;
+  }
+  .head {
+    text-align: center;
+    background: #212121;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: -3px;
+    padding: 10px;
+    width: 35%;
+    color: white;
+    border: 2px solid deepskyblue;
+    border-bottom: none;
+    z-index: 10;
+  }
