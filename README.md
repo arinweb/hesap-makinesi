@@ -1,4 +1,4 @@
-# hesapmakinesi
+# Hesap Makinesi
 Çalışması için **\<head\>** etiketi arasına bu kodları ekleyin.
 ```
 <link rel="stylesheet" href="style.css" type="text/css" media="all" />
